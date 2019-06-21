@@ -6,6 +6,9 @@
 * [Default2.aspx](./CS/WebSite/Default2.aspx) (VB: [Default2.aspx](./VB/WebSite/Default2.aspx))
 <!-- default file list end -->
 # ASPxMenu - How to clear the NavigationUrl property if items are created at design time
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3904/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to clear the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxMenuMenuItem_NavigateUrltopic"><u>MenuItem.NavigateUrl</u></a> property to prevent redirecting to another page on tablet device browsers. ASPxMenu items are created at design time.</p><p><strong>See also:</strong><br />
